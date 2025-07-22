@@ -6,7 +6,7 @@ const App: React.FC = () => {
 
   return (
     <div>
-      <h1>{initData}</h1>
+      {initData}
     </div>
   );
 };
